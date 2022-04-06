@@ -3,3 +3,4 @@ poster=poster.png
 id=sawedoff-shotguns-holster-robboinnit
 require=ItemTweakerAPI,ActualSawnOff
 description=Sawed-off Shotguns go in holster like in Mad Maxwell
+url=https://github.com/aSeriousDeveloper/zomboid-sawedoff-shotguns-holster
