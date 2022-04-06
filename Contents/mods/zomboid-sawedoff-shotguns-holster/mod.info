@@ -1,0 +1,5 @@
+name=Sawed off Shotguns in Holster
+poster=poster.png
+id=sawedoff-shotguns-holster-robboinnit
+require=ItemTweakerAPI,ActualSawnOff
+description=Sawed-off Shotguns go in holster like in Mad Maxwell

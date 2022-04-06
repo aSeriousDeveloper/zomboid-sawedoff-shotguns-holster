@@ -1,0 +1,6 @@
+version=1
+id=2787505766
+title=Craftable Curtains
+
+tags=Build 41;Items;Misc;Pop Culture;Weapons
+visibility=public
