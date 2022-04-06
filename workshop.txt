@@ -1,5 +1,5 @@
 version=1
-id=
+id=2790421647
 title=Sawed-off Shotguns in Holster
 description=Allow Sawnoff/Sawed-off (I don't actually know which one it is) shotguns to be placed in holsters.
 description=
